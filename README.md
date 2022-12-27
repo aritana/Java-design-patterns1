@@ -1,5 +1,5 @@
 # Design Patterns in Java I: good programming practices
-An react course done on  Alura: https://cursos.alura.com.br/
+An course done on  Alura: https://cursos.alura.com.br/
 
 ### course:https://cursos.alura.com.br/course/introducao-design-patterns-java/task/85645
 
